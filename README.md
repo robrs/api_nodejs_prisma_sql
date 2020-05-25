@@ -6,9 +6,7 @@ Documentação do prisma em https://www.prisma.io/
 ## Installation
 ```
 npm install
-```
 
-```
 npx prisma generate
 ```
 
