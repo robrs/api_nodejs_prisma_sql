@@ -7,6 +7,10 @@ Documentação do prisma em https://www.prisma.io/
 ```
 npm install
 ```
+## Run Prisma
+```
+npx prima generate
+```
 
 ## Usage
 ```
