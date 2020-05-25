@@ -9,7 +9,7 @@ npm install
 ```
 ## Run Prisma
 ```
-npx prima generate
+npx prisma generate
 ```
 
 ## Usage
